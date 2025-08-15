@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Garvdeep Singh
 
-🎓 Second-year CSE Undergrad at NIT Jalandhar  
+🎓 Third-year CSE Undergrad at NIT Jalandhar  
 💻 Passionate about backend, full-stack development, and solving real-world problems  
 🚀 Currently building cool projects using MERN Stack & Python  
 🌐 Always open to learning new tech and contributing to impactful teams
